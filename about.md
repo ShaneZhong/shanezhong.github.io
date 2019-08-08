@@ -4,43 +4,46 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hey, nice to meet you! My name is Shane Zhong and I am a Data Scientist 
+focused on solving real business problems with the latest AI technologies. 
+I am currently working in the Marketing Analytics team at
+ <a href="https://www.theiconic.com.au/">THE ICONIC</a>, the Australian 
+ largest online fashion retailer.</p>
+ 
+ 
+My job is pretty straightforward: help marketing make more data 
+driven decisions to optimise the efficiency of all marketing channels.
+I love to work closely with the marketing team to understand the 
+business problems and how I can improve their day-to-day works.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+Outside of work, I also like to work on personal projects with the use of 
+the state-of-art deep learning models such as BERT or GPT-2. 
+
+If you’re also having the same interests in data science, 
+ please reach out, I would love to connect and exchange knowledge. 
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+    <li>Python</li>
+	<li>R</li>
+	<li>SQL</li>
+	<li>Git / Github</li>
+	<li>Docker</li>
+	<li>Deep Learning with TensorFlow</li>
+	<li>Machine Learning</li>
+	<li>Google Analytics</li>
+	<li>CI/CD</li>
+	<li>AWS</li>
+	<li>Linux</li>
+	<li>Make things work as intented</li>
 </ul>
 
-<h2>Projects</h2>
+<h2>AI Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://github.com/">Twitter Bots - GPT-2 Model</a></li>
+	<li><a href="https://github.com/">Monet to Photo - CircleGAN Model</a></li>
+	<li><a href="https://github.com/">Chinese Poetry Generation - LSTM Model</a></li>
+	<li><a href="https://github.com/">Sentiment Analysis - BERT Model</a></li>
 </ul>

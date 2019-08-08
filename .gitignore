@@ -3,3 +3,7 @@
 *.xml
 .idea/workspace.xml
 *.xml
+assets/images/favicon/.DS_Store
+assets/.DS_Store
+.idea/
+*/.DS_Store
