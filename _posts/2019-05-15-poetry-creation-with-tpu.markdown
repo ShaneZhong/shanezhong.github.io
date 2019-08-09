@@ -1,5 +1,5 @@
 ---
-title: "Chinese Poetry Creation with TPU and GPU"
+title: "Poetry creation using TPU and GPU"
 layout: post
 date: 2019-05-15 20:19
 tag: jekyll
@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "Create a 2-layer LSTM model with Chinese poems with Google GPU & TPU "
 category: project
-author: johndoe
+author: shanezhong
 externalLink: false
 ---
 
@@ -47,10 +47,13 @@ _________________________________________________________________
 The model learns from 20,000 existing Chinese poems to generate a new poem with maximum of 56
 characters in 2 sentences. The final output would be similar to the one below:
 
-> 西半登楼送酒船，桐乡方近是羁魂。<p> 
-> 海云心事春风恶，长复危亭怨别人。<p>
-> 不及孤城两堪位，即应分别在乡人。<p>
-> 地中宜著金袍玉，更得同盘折角巾。
+```
+西半登楼送酒船，桐乡方近是羁魂。
+海云心事春风恶，长复危亭怨别人。
+不及孤城两堪位，即应分别在乡人。
+地中宜著金袍玉，更得同盘折角巾。
+```
+
 
 By monitoring the training loss, it is estimated that the model trained on TPU learns 5 times quicker
 than the model trained on GPU. You can access both models in the links below.
@@ -59,5 +62,3 @@ than the model trained on GPU. You can access both models in the links below.
 #### Colab Code Link
 * [Chinese Poetry Creation with TPU](https://colab.research.google.com/drive/192OqufBtem0KW5geZ3W4oih98ziRnH4M)
 * [Chinese Poetry Creation with GPU](https://colab.research.google.com/drive/1hUNOFg29gCuNOoI0uF0kBbWogr3MUIYD)
-
----
