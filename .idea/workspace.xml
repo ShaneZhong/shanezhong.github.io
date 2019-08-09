@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21c77df4-1284-4e94-847a-69aef157a286" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2019-05-05-regression-rernoulli-naive-bayes-svm-xgboost.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2019-07-29-monet-painting-to-photo.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-02-24-markdown-extra-components.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2016-02-24-markdown-common-elements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2016-02-24-markdown-common-elements.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-08-12-shane-test.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-08-09-twitter-bot-with-GPT2.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2019-05-05-regression-rernoulli-naive-bayes-svm-xgboost.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-05-05-regression-rernoulli-naive-bayes-svm-xgboost.markdown" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +12,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2019-08-09-twitter-bot-with-GPT2.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+              <first_editor relative-caret-position="150">
+                <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               </first_editor>
               <second_editor />
             </state>
@@ -33,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-07-29-monet-painting-to-photo.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1305">
+              <first_editor relative-caret-position="375">
                 <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
               </first_editor>
               <second_editor />
@@ -45,20 +40,20 @@
         <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-sentiment-analysis-using-Bert.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="465">
-                <caret line="31" lean-forward="true" selection-end-line="31" />
+              <first_editor relative-caret-position="255">
+                <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2019-05-05-regression-rernoulli-naive-bayes-svm-xgboost.markdown">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="495">
-                <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <first_editor relative-caret-position="45">
+                <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
               </first_editor>
               <second_editor />
             </state>
@@ -459,11 +454,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-08-09-twitter-bot-with-GPT2.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-sentiment-analysis-using-Bert.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="31" column="38" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2019-05-05-regression-rernoulli-naive-bayes-svm-xgboost.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
           </first_editor>
           <second_editor />
         </state>
@@ -482,28 +487,18 @@
     <entry file="file://$PROJECT_DIR$/_posts/2019-07-29-monet-painting-to-photo.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1305">
+          <first_editor relative-caret-position="375">
             <caret line="25" column="3" lean-forward="true" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-04-28-sentiment-analysis-using-Bert.markdown">
+    <entry file="file://$PROJECT_DIR$/_posts/2019-08-09-twitter-bot-with-GPT2.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="465">
-            <caret line="31" lean-forward="true" selection-end-line="31" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2019-05-05-regression-rernoulli-naive-bayes-svm-xgboost.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="495">
-            <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <first_editor relative-caret-position="150">
+            <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
           </first_editor>
           <second_editor />
         </state>
