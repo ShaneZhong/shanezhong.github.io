@@ -13,9 +13,7 @@ author: shanezhong
 externalLink: false
 ---
 
-### Chinese Poetry Creation with TPU and GPU
-
-#### Summary
+### Summary
 The aim of this project is to train a 2-layer LSTM neural-network that generates new 
  Chinese poems using TPU and GPU, then compare the training performance of the two approaches.
 
@@ -59,6 +57,6 @@ By monitoring the training loss, it is estimated that the model trained on TPU l
 than the model trained on GPU. You can access both models in the links below.
 
 ---
-#### Colab Code Link
+### Colab Code Link
 * [Chinese Poetry Creation with TPU](https://colab.research.google.com/drive/192OqufBtem0KW5geZ3W4oih98ziRnH4M)
 * [Chinese Poetry Creation with GPU](https://colab.research.google.com/drive/1hUNOFg29gCuNOoI0uF0kBbWogr3MUIYD)
