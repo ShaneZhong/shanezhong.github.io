@@ -1,7 +1,7 @@
 ---
 title: "Regression, Bernoulli Naive Bayes, SVM, XGBoost"
 layout: post
-date: 2019-05-05 20:19
+date: 2019-04-25 20:19
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
