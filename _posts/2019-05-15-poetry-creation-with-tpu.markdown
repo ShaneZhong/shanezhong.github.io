@@ -22,6 +22,7 @@ architecture used in the field of deep learning. It is commonly used in building
 Natural-Language-Process (NLP) model and time-series forecast. In this project, the 2-layer LSTM
 model contains 73 cells, and each cell contains an embedding layer with 512 dimensions. The
 neutral-network layer structure can be summarised as below:
+
 ```buildoutcfg
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
