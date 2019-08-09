@@ -42,8 +42,9 @@ If you’re also having the same interests in data science,
 <h2>AI Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Twitter Bots - GPT-2 Model</a></li>
-	<li><a href="https://github.com/">Monet to Photo - CircleGAN Model</a></li>
-	<li><a href="https://github.com/">Chinese Poetry Generation - LSTM Model</a></li>
-	<li><a href="https://github.com/">Sentiment Analysis - BERT Model</a></li>
+	<li><a href="https://shanezhong.github.io//twitter-bot-with-GPT2/">Twitter Bots - GPT-2 Model</a></li>
+	<li><a href="https://shanezhong.github.io//monet-painting-to-photo/">Monet to Photo - CircleGAN Model</a></li>
+	<li><a href="https://shanezhong.github.io//poetry-creation-with-tpu/">Chinese Poetry Generation - LSTM Model</a></li>
+	<li><a href="https://shanezhong.github.io//sentiment-analysis-using-Bert/">Sentiment Analysis - BERT Model</a></li>
+	<li><a href="https://shanezhong.github.io//regression-rernoulli-naive-bayes-svm-xgboost/">Regression, Bernoulli Naive Bayes, SVM and XGBoost</a></li>
 </ul>
