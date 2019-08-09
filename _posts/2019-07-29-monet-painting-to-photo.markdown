@@ -23,7 +23,9 @@ externalLink: false
 * The twitter account link - [here](https://twitter.com/ai_telling)
 * To set up the email notification - [here](https://support.google.com/mail/answer/7126229?visit_id=636997950280030700-282303594&rd=2#cantsignin)
 * Github link - [here](https://github.com/ShaneZhong/gpt-2-twitter-bot)
+
 ---
+
 ## Using CircleGAN and Pix2Pix in Tensorflow 2.0
 This repo contains Colab notebooks that allow you to implement Pix2Pix and CircleGAN using TensorFlow 2.0. Below is the high-level overview of the two models.
 
