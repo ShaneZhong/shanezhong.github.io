@@ -13,11 +13,11 @@ author: shanezhong
 externalLink: false
 ---
 
-## Chinese Poetry Creation with TPU and GPU
+### Chinese Poetry Creation with TPU and GPU
 
 #### Summary
-The aim of this project is to train a 2-layer LSTM neural-network using TPU and GPU on Google
-Colab, then compare the training performance of the two approaches.
+The aim of this project is to train a 2-layer LSTM neural-network that generates new 
+ Chinese poems using TPU and GPU, then compare the training performance of the two approaches.
 
 Long short-term memory (LSTM) is an artificial recurrent neural network (RNN) 
 architecture used in the field of deep learning. It is commonly used in building 
