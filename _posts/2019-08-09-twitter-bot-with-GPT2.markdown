@@ -21,7 +21,8 @@ externalLink: false
 * Github link - [here](https://github.com/ShaneZhong/gpt-2-twitter-bot)
 
 ---
-#### gpt-2
+
+#### GPT-2
 
 Code from the paper ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf).
 
