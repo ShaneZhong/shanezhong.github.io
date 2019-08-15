@@ -12,7 +12,7 @@ I am currently working in the Marketing Analytics team at
  
  
 My job is pretty straightforward: help marketing make more data 
-driven decisions to optimise the efficiency of all marketing channels.
+driven decisions and optimise the efficiency of all marketing channels.
 I love to work closely with the marketing team to understand the 
 business problems and how I can improve their day-to-day works.
 
